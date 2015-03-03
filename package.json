@@ -1,7 +1,7 @@
 {
   "name": "unupdatable",
   "main": "./lib/unupdatable",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A package whose latest version shouldn't be installed until Atom reach version 99.0.0",
   "activationCommands": {
     "atom-workspace": "unupdatable:toggle"
